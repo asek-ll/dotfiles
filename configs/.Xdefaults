@@ -1,0 +1,35 @@
+URxvt.font:             xft:UbuntuMono Nerd Font Mono:pixelsize=25
+
+URxvt*scrollBar: false
+URxvt*scrollBar_right: false
+URxvt*scrollstyle: rxvt
+
+URxvt.keysym.C-S-0x43: eval:selection_to_clipboard
+URxvt.keysym.C-S-0x56: eval:paste_clipboard
+
+urxvt*color0:    #2b2b2b
+urxvt*color8:    #262626
+
+urxvt*color1:    #ff5858
+urxvt*color9:    #ff597d
+
+urxvt*color2:    #2fbebc
+urxvt*color10:   #2fbebc
+
+urxvt*color3:    #3bafe4
+urxvt*color11:   #369ecf
+
+urxvt*color4:    #ff5858
+urxvt*color12:   #ff597d
+
+urxvt*color5:    #c679dd
+urxvt*color13:   #c679dd
+
+urxvt*color6:    #ff6376
+urxvt*color14:   #ff586b
+
+urxvt*color7:    #36474f
+urxvt*color15:   #324047
+
+URxvt*background: #f7f9f9
+URxvt*foreground: #596777

@@ -1,0 +1,5 @@
+"vim:ft=vim
+set clipboard=unnamed
+set hlsearch
+set ignorecase
+set multiple-cursors
